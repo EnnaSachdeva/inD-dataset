@@ -1,0 +1,3 @@
+
+
+read_from_csv(00_tracks.csv, 00_trackMeta.csv, 00_recordingMeta.csv)
